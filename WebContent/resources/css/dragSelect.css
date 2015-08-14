@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+
+table td {
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	vertical-align: middle;
+	background-color: 1px solid #FFF;
+	border: 1px solid #fff;
+}
+
+table td.highlighted {
+	background-color: #CAF4D1;
+}
